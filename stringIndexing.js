@@ -2,4 +2,4 @@
 
 let firstName="Saagar";
 
-console.log(firstName[0]);
+console.log(firstName[1]);
