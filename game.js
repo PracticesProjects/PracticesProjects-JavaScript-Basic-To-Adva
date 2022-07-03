@@ -17,4 +17,7 @@ const a=4;
 //the game is played by the human
 //the game is played by the computer
 //the game is played by the human
-
+//the game is played by the computer
+//the game is played by the human
+//the game is played by the computer
+//the game is played by the human
