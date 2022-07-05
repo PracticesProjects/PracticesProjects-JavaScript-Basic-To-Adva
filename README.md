@@ -11,4 +11,4 @@
 6. Let Vs Var Keywords Diferecnce
 7. string concatination
 8. Null in JavaScript
-9. 
+9. booleans and comparisons operators
