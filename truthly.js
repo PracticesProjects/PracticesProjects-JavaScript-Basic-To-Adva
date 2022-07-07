@@ -10,6 +10,7 @@
 //if else condition
 
 let age = 20;
+let age1=24;
 
 if (age >20){
     console.log("Age must be less than 20");
