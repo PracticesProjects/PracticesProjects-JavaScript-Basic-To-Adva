@@ -25,3 +25,7 @@ else{
 let number =14;
 
 // % = 0
+
+
+
+//This is js values that should be converted    to numbers  and converted   to Strings
