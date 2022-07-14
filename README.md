@@ -12,3 +12,5 @@
 7. string concatination
 8. Null in JavaScript
 9. booleans and comparisons operators
+10. Truthy and Falsy values in Javascript
+11. if else condition
