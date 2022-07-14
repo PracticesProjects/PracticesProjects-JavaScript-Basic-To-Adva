@@ -14,3 +14,4 @@
 9. booleans and comparisons operators
 10. Truthy and Falsy values in Javascript
 11. if else condition
+12. ternary operator
