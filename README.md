@@ -15,3 +15,4 @@
 10. Truthy and Falsy values in Javascript
 11. if else condition
 12. ternary operator
+13. AND,OR operator
