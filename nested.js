@@ -7,3 +7,17 @@
 let winningnumber = 19;
 let userGuess = + prompt('Enter your guess number');
 console.log(typeof userGuess, userGuess); 
+
+
+if(userGuess === winningnumber)
+{
+    console.log('Your guess was correct');
+}
+else{
+    if(userGuess < winningnumber){
+        console.log("too low !!!");
+    }
+    else{
+    console.log("your guess was wrong");
+    }
+}
