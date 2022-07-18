@@ -10,3 +10,5 @@ while (i <= 10) {
 }
  
 console.log('Current value of i is ${i}');
+
+let num = 10;
