@@ -19,3 +19,4 @@
 14. Nested operator
 15. If, Else if, Else condition
 16. Switch Case
+17. While Loop
