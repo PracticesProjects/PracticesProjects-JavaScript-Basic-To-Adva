@@ -21,4 +21,5 @@
 16. Switch Case
 17. While Loop
 18.  For While Loop
-19.  
+19.  Do while Loop
+20.  Arrary in JavaScript
