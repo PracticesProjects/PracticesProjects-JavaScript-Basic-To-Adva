@@ -20,3 +20,5 @@
 15. If, Else if, Else condition
 16. Switch Case
 17. While Loop
+18.  For While Loop
+19.  
