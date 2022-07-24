@@ -13,9 +13,11 @@
 let fruits = ['apple,mango,grapes,orange'];
 console.log(fruits);
 fruits[0]="mango";
-console.log(fruits);
+console.log( typeof fruits);
 
 
 // array is object in javascript
 //array indexing
 
+Array.isArray(typeof fruits);
+console.log(Array.isArray(fruits));
