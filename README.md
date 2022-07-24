@@ -24,5 +24,5 @@
 19.  Do while Loop
 20.  Arrary in JavaScript
 21.  Break and Continue 
-22.  
+22.  Clone Array 
 23.  
