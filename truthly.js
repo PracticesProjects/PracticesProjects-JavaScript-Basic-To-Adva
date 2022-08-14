@@ -29,3 +29,7 @@ let number =14;
 
 
 //This is js values that should be converted    to numbers  and converted   to Strings
+
+
+//thuthy
+// -1 1

@@ -14,3 +14,15 @@
 9. booleans and comparisons operators
 10. Truthy and Falsy values in Javascript
 11. if else condition
+12. ternary operator
+13. AND,OR operator
+14. Nested operator
+15. If, Else if, Else condition
+16. Switch Case
+17. While Loop
+18.  For While Loop
+19.  Do while Loop
+20.  Arrary in JavaScript
+21.  Break and Continue 
+22.  Clone Array 
+23.  
